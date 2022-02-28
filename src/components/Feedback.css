@@ -1,0 +1,43 @@
+.feedback-card {
+  padding: 55px 85px;
+  box-shadow: 0px 0px 100px rgba(39, 35, 67, 0.03);
+  border-radius: 13px;
+  /* width: 750px; */
+  /* height: 384px; */
+}
+
+.feedback-left-container {
+  width: 50%;
+}
+
+.feedback {
+  padding: 75px 0;
+}
+
+.feedback-name {
+  display: block;
+  font-size: 20px;
+  color: #094067;
+}
+
+.feedback-prof {
+  display: block;
+  color: grey;
+}
+
+.feedback-title {
+  margin-bottom: 81px;
+}
+
+.feedback-description {
+  font-size: 30px;
+  line-height: 48px;
+  color: #094067;
+  margin-bottom: 35px;
+  width: 580px;
+}
+
+.feedback-pic {
+  width: 603px;
+  height: 657px;
+}

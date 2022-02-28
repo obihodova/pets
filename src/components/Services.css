@@ -1,0 +1,31 @@
+.services {
+  padding: 75px 0;
+}
+
+.services-title {
+  padding-bottom: 30px;
+}
+
+.services-description {
+  padding: 0 300px;
+  margin-bottom: 70px;
+}
+
+h4 {
+  color: #094067;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  /* margin-top: 28px; */
+}
+
+.services-card {
+  width: 297px;
+  height: 255px;
+}
+
+.services-card-pic {
+  /* margin-bottom: 28px; */
+  height: 140px;
+  
+}

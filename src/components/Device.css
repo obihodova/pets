@@ -1,0 +1,35 @@
+.device {
+  padding: 75px 0;
+  background-color: #f4faff;
+}
+
+.device-title {
+  margin-bottom: 30px;
+}
+
+.device-description {
+  margin-bottom: 50px;
+}
+
+.device-button {
+  color: #ecf7ff;
+  background-color: #3da9fc;
+  padding: 15px 35px;
+  width: 191px;
+  height: 68px;
+  border: none;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.device-pic {
+  margin-right: 213px;
+  height: 652px;
+  width: 976px;
+}
+
+.device-right-container {
+  padding: 155px 0 125px 0;
+}
+
